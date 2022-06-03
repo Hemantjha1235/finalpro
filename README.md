@@ -1,3 +1,3 @@
 # finalpro
 this is my final frt project.
-#azure link https://github.com/Hemantjha2244/finalpro.git
+#azure link https://lemon-plant-0f3b2ca10.1.azurestaticapps.net
